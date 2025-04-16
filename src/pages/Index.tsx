@@ -1,7 +1,7 @@
 
 import { Button } from "@/components/ui/button";
 import { Card } from "@/components/ui/card";
-import { UploadDropZone } from "@/components/upload-drop-zone";
+import { UploadDropZone } from "@/components/ui/upload-drop-zone";
 import { Navbar } from "@/components/navbar";
 import {
   BookOpen,
