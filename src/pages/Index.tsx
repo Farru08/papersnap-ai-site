@@ -1,4 +1,3 @@
-
 import { Button } from "@/components/ui/button";
 import { Card } from "@/components/ui/card";
 import { UploadDropZone } from "@/components/ui/upload-drop-zone";
@@ -167,7 +166,7 @@ export default function Index() {
       {/* Footer */}
       <footer className="py-8 px-4 border-t">
         <div className="container max-w-4xl text-center">
-          <p className="text-gray-600 mb-4">Made with ❤️ by Students</p>
+          <p className="text-gray-600 mb-4">Made with ❤️ by Fareeha</p>
           <div className="flex justify-center gap-4">
             <Button variant="ghost" size="icon" asChild>
               <a
